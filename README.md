@@ -27,6 +27,9 @@ Reporting:-
 
 Created detailed reports and visualizations to present findings, helping stakeholders make data-driven decisions.
 This project enhanced my SQL skills, particularly in areas like JOIN operations, subqueries, and aggregate functions. It also strengthened my ability to translate raw data into meaningful insights that can drive business growth.
+Conclusion of SQL Music Store Analysis Project
+
+Conclusion of SQL Music Store Analysis Project
 
 The SQL music store analysis project successfully uncovered valuable insights into the store's sales performance, customer preferences, and inventory management. Key findings include
 
